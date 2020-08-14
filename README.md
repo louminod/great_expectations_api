@@ -16,10 +16,19 @@ This command will :
  - Launch the initialization of great_expectations
  - Configure the environment
 
-During this initialization, you will have to setup great_expecta
+During this initialization, you will have to setup great_expectation.
+Follow these steps:
 
+ 1. List item
 
+### 2) Start the REST API
+
+    python3 great_expectations_api start
+
+You will be asked to fill in:
+
+ - IP : 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTE3NDQxNl19
+eyJoaXN0b3J5IjpbLTE2ODY4NjgxMjJdfQ==
 -->
