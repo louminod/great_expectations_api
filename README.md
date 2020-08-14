@@ -17,9 +17,11 @@ This command will :
  - Configure the environment
 
 During this initialization, you will have to setup great_expectation.
-Follow these steps:
+Follow these steps (this exa:
 
- 1. TODO -> write the steps
+ 1. Great Expectations will create a new directory -> y
+ 2. Would you like to configure a Datasource -> y
+ 3. 
 
 ### 2) Start the REST API
 
@@ -40,5 +42,5 @@ This command will :
  - Uninstall the great_expectations package and sub-packages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbLTEzNzY4NzY3MjMsMTQ5ODgyMTU0Ml19
 -->
