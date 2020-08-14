@@ -16,8 +16,10 @@ This command will :
  - Launch the initialization of great_expectations
  - Configure the environment
 
+During this initialization, you will have to setup great_expecta
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTg5NzgyMF19
+eyJoaXN0b3J5IjpbLTU0NTE3NDQxNl19
 -->
