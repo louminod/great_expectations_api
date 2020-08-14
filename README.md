@@ -63,9 +63,13 @@ The url is composed like this:
 	 - The great_expectations request, for example `expect_table_row_count_to_be_between`
 	 - The parameter(s), for example `?min_value=50&max_value=100`
 
+Example : `http://localhost:1234/local_
 ### Extra parameters :
-Shome extra par
+Shome extra parameters are available:
+
+ - limit : limit the dataset number of lines `&limit=1000`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM2OTY2NDksMTk2NjQwMjg5OSwtMj
-AxNzU5NDc1NywzMDM1MTY0MDcsMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbLTczNDkwMDY5NywxOTY2NDAyODk5LC0yMD
+E3NTk0NzU3LDMwMzUxNjQwNywxNDk4ODIxNTQyXX0=
 -->
