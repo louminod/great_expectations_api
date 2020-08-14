@@ -60,10 +60,12 @@ The url is composed like this:
  - **schema** : It represent the database schema of the requested table
  - **table** : It represent the requested table
  - **great_request** : It must be composed of two parts :
-	 - The great_expectations request, for example `expect_column_to_exist`
-	 - The parameter(s), for example `?column=name`
+	 - The great_expectations request, for example `expect_table_row_count_to_be_between`
+	 - The parameter(s), for example `?min_value=50&max_value=100`
 
+### Extra parameters :
+Shome extra par
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMjQwODksMTk2NjQwMjg5OSwtMjAxNz
-U5NDc1NywzMDM1MTY0MDcsMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbLTE0MTM2OTY2NDksMTk2NjQwMjg5OSwtMj
+AxNzU5NDc1NywzMDM1MTY0MDcsMTQ5ODgyMTU0Ml19
 -->
