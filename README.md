@@ -24,7 +24,9 @@ Follow these steps (this example is for an Postgresql connection) :
  3. What data would you like Great Expectations to connect to -> 2
  4. Which database backend are you using -> 2
  5. Give your new Datasource a short name -> 'type the name'
- 6. 
+ 6. Fill the database informations
+ 7. Would you like to proceed -> y
+ 8. Would you like to profile new Expectations for a single data asset within your new Datasource -> y
 
 ### 2) Start the REST API
 
@@ -45,5 +47,5 @@ This command will :
  - Uninstall the great_expectations package and sub-packages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTIzNDYwNywxNDk4ODIxNTQyXX0=
+eyJoaXN0b3J5IjpbMzAzNTE2NDA3LDE0OTg4MjE1NDJdfQ==
 -->
