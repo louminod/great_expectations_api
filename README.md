@@ -56,8 +56,10 @@ The url is composed like this:
 
     http://@IP:PORT/<data_source>/<schema>/<table>/<great_request>
 
+ - <data_source> represent the connection to be used in the request. This connection must have been previously created.
+ - <schema
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTA4Mzc2NCwtMjAxNzU5NDc1NywzMD
-M1MTY0MDcsMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbNTkwNDc1NzYzLC0yMDE3NTk0NzU3LDMwMz
+UxNjQwNywxNDk4ODIxNTQyXX0=
 -->
