@@ -17,11 +17,14 @@ This command will :
  - Configure the environment
 
 During this initialization, you will have to setup great_expectation.
-Follow these steps (this exa:
+Follow these steps (this example is for an Postgresql connection) :
 
  1. Great Expectations will create a new directory -> y
  2. Would you like to configure a Datasource -> y
- 3. 
+ 3. What data would you like Great Expectations to connect to -> 2
+ 4. Which database backend are you using -> 2
+ 5. Give your new Datasource a short name -> 'type the name'
+ 6. 
 
 ### 2) Start the REST API
 
@@ -42,5 +45,5 @@ This command will :
  - Uninstall the great_expectations package and sub-packages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY4NzY3MjMsMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbLTY3OTIzNDYwNywxNDk4ODIxNTQyXX0=
 -->
