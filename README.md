@@ -60,8 +60,8 @@ The url is composed like this:
  - **schema** : It represent the database schema of the requested table
  - **table** : It represent the requested table
  - **great_request** : It must be composed of two parts :
-	 - The great_expectations request. *Example :* `expect_table_row_count_to_be_between`
-	 - The parameter(s), for example `?min_value=50&max_value=100`
+	 - The great_expectations request. *Example: * `expect_table_row_count_to_be_between`
+	 - The parameter(s) of the request. *Example:* `?min_value=50&max_value=100`
 
 *Example :* `http://localhost:1234/local_great/public/users/expect_table_row_count_to_be_between?min_value=50&max_value=100`
 ### Extra parameters :
@@ -70,6 +70,6 @@ Shome extra parameters are available:
  - **limit** : limit the dataset number of lines `&limit=1000`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEwNjAyNjYsMTk2NjQwMjg5OSwtMj
-AxNzU5NDc1NywzMDM1MTY0MDcsMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbNjA5NDk1MTAwLDE5NjY0MDI4OTksLTIwMT
+c1OTQ3NTcsMzAzNTE2NDA3LDE0OTg4MjE1NDJdfQ==
 -->
