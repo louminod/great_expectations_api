@@ -31,6 +31,7 @@ def uninstall(package):
 
 for arg in sys.argv:
     if arg == 'init':
+        
         print('- Installation of sub-required packages -')
         install('flask')
         install('sqlalchemy')
@@ -38,8 +39,10 @@ for arg in sys.argv:
 
         # POSTGRESQL
         install('psycopg2-binary')
+        
         print('- Installation of great expectations -')
         install('great_expectations')
+        
         print('- Initialize great expectations -')
         os.system("great_expectations init")
         if os.path.isfile('./great_expectations/expectations/config.json'):
