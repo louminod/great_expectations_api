@@ -27,8 +27,18 @@ Follow these steps:
 
 You will be asked to fill in:
 
- - IP : 
+ - IP : It's the server @IP on the network
+ - PORT : It's the server running port
+
+### 3) Delete the service
+
+    python3 great_expectations_api delete
+
+This command will :
+
+ - Delete the great
+ - Install the great_expectations packag
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY4NjgxMjJdfQ==
+eyJoaXN0b3J5IjpbOTY5NzMzOTU3XX0=
 -->
