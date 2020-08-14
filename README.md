@@ -27,6 +27,10 @@ Follow these steps (this example is for an Postgresql connection) :
  6. Fill the database informations
  7. Would you like to proceed -> y
  8. Would you like to profile new Expectations for a single data asset within your new Datasource -> y
+ 9. Which table would you like to use -> choose one randomly, it doesn't matter
+ 10. Name the new Expectation Suite -> config
+ 11. Would you like to proceed -> y
+ 12. Would you like to build Data Docs -> n
 
 ### 2) Start the REST API
 
@@ -47,5 +51,6 @@ This command will :
  - Uninstall the great_expectations package and sub-packages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNTE2NDA3LDE0OTg4MjE1NDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTc1OTQ3NTcsMzAzNTE2NDA3LDE0OT
+g4MjE1NDJdfQ==
 -->
