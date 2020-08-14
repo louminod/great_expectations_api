@@ -13,9 +13,11 @@ This command will :
 
  - Install the sub-required packages
  - Install the great_expectations package
- - Launch the initialization of great_expectation
- - 
+ - Launch the initialization of great_expectations
+ - Configure the environment
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU0NjgwOTNdfQ==
+eyJoaXN0b3J5IjpbLTgzMTg5NzgyMF19
 -->
