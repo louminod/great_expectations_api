@@ -9,8 +9,13 @@ In order to be able to use the services provided by great_expectations in an env
 
     python3 great_expectations_api.py init
 
-This command will install the required packages
+This command will :
+
+ - Install the sub-required packages
+ - Install the great_expectations package
+ - Launch the initialization of great_expectation
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTE3NzY4NF19
+eyJoaXN0b3J5IjpbLTExMzU0NjgwOTNdfQ==
 -->
