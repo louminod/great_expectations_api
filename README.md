@@ -4,7 +4,7 @@
 
 In order to be able to use the services provided by great_expectations in an environment other than Python, great_expextations_api is a solution that provides a rest API to communicate from any environment with great_expectations.
 
-## How to setup
+## How to use it
 ### 1) Initialize the service
 
     python3 great_expectations_api.py init
@@ -19,7 +19,7 @@ This command will :
 During this initialization, you will have to setup great_expectation.
 Follow these steps:
 
- 1. List item
+ 1. TODO -> write the steps
 
 ### 2) Start the REST API
 
@@ -40,5 +40,5 @@ This command will :
  - Uninstall the great_expectations package and sub-packages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MjI4NzQ0XX0=
+eyJoaXN0b3J5IjpbMTQ5ODgyMTU0Ml19
 -->
