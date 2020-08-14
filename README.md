@@ -36,9 +36,9 @@ You will be asked to fill in:
 
 This command will :
 
- - Delete the great
- - Install the great_expectations packag
+ - Delete the great_expectations folder
+ - Uninstall the great_expectations package and sub-packages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NzMzOTU3XX0=
+eyJoaXN0b3J5IjpbNjM5MjI4NzQ0XX0=
 -->
