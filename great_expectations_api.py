@@ -4,6 +4,7 @@ import sys
 import os
 import json
 import shutil
+import socket
 
 def boolify(data):
     if data == 'True':
@@ -91,9 +92,10 @@ for arg in sys.argv:
 
             return jsonpickle.encode(getattr(batch, great_request)(*arguments), unpicklable=False)
 
-        ip = input("IP: ")
+        hostname = socket.gethostname()
+        ip_address = socket.gethostbyname(hostname)
         port = input("PORT: ")
-        api.run(host=ip, port=port, debug=False)
+        api.run(host=ip_address, port=port, debug=False)
     if arg == 'delete':
         shutil.rmtree('./great_expectations/')
         uninstall('flask')
