@@ -1,5 +1,7 @@
 # great_expectations_api
 
+> Only work on linux or Mac systems !
+
 ## What is it for ?
 
 In order to be able to use the services provided by great_expectations in an environment other than Python, great_expextations_api is a solution that provides a rest API to communicate from any environment with great_expectations.
@@ -70,6 +72,7 @@ Shome extra parameters are available:
  - **limit** : limit the dataset number of lines `&limit=1000`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUyNDExNzQsMTk2NjQwMjg5OSwtMj
-AxNzU5NDc1NywzMDM1MTY0MDcsMTQ5ODgyMTU0Ml19
+eyJoaXN0b3J5IjpbLTE2ODc3MTY3NSwtMTQxNTI0MTE3NCwxOT
+Y2NDAyODk5LC0yMDE3NTk0NzU3LDMwMzUxNjQwNywxNDk4ODIx
+NTQyXX0=
 -->
