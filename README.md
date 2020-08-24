@@ -54,7 +54,7 @@ This command will :
 
 ## How to use it
 
-The url is composed like this:
+The url is a **POST** request and it is composed like this:
 
     http://@IP:PORT/<data_source>/<schema>/<table>/<great_request>
 
@@ -72,7 +72,7 @@ Shome extra parameters are available:
  - **limit** : limit the dataset number of lines `&limit=1000`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc3MTY3NSwtMTQxNTI0MTE3NCwxOT
-Y2NDAyODk5LC0yMDE3NTk0NzU3LDMwMzUxNjQwNywxNDk4ODIx
-NTQyXX0=
+eyJoaXN0b3J5IjpbLTc3NjEzMTcyNywtMTY4NzcxNjc1LC0xND
+E1MjQxMTc0LDE5NjY0MDI4OTksLTIwMTc1OTQ3NTcsMzAzNTE2
+NDA3LDE0OTg4MjE1NDJdfQ==
 -->
